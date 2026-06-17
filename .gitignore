@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.log
+npm-debug.log*
+.expo/
+.DS_Store
+.vscode/
+
+backup-before-ia/
+*_backup.js
+*_backup.*
+moneymind_db_backup.sql
