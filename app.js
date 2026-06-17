@@ -19,7 +19,7 @@ const HTTP = require("./src/constants/httpStatus");
 // Rotas
 const authRoutes         = require("./src/routes/authRoutes");
 const transactionRoutes  = require("./src/routes/transactionRoutes");
-const verificationRoutes = require("./src/routes/VerificationRoutes");
+const verificationRoutes = require("./src/routes/verificationRoutes");
 const aiRoutes           = require("./src/routes/aiRoutes");
 const notificationRoutes = require("./src/routes/notificationRoutes");
 const incomeRoutes       = require("./src/routes/incomeRoutes");
